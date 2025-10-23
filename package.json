@@ -1,0 +1,24 @@
+{
+  "name": "tabelas",
+  "version": "1.0.0",
+  "description": "ESTUDOS SOBRE TABELAS COM HTML E CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovannaCarraro/tabelas.git"
+  },
+  "keywords": [
+    "tabela",
+    "css",
+    "html"
+  ],
+  "author": "Giovanna Carraro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovannaCarraro/tabelas/issues"
+  },
+  "homepage": "https://github.com/GiovannaCarraro/tabelas#readme"
+}
